@@ -1,5 +1,5 @@
-#assignment
-#area of a circle
+# assignment
+# area of a circle
 
 r = input("enter radius of circle")
 pi = 22/7
@@ -8,7 +8,7 @@ area = int (r)  * pi * int (r)
 print("The radius of the circle is " + r)
 print("The area of the circle is " + str (area))
 
-#area of a cylinder
+# area of a cylinder
 r = input("enter radius of the circle ")
 h = input("enter height of the cylinder ")
 d = input("enter diameter of the circle ")
@@ -19,12 +19,10 @@ print ("The height of the cylinder is " + h)
 print("The diameter of the circle is" + d)
 print("The area of the cylinder is " + str (areaofaCylinder))
 
-
-
-#the volume of a cube
+# the volume of a cube
 length = input("what is the length of the cube")
 volume = int (length) * int (length) *int (length)
-print("The length of the cube is " + (length))
+("The length of the cube is " + (length))
 print("The volume of the cube is " + str (volume))
 
 #volume of a cylinder
